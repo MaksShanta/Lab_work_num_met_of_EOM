@@ -1,3 +1,7 @@
+#Інструкція:
+#Код запускається задопомогою команди: python lab3.py
+#Зупиняжться за допомогою комбінації клавіш: `Ctrl+C` .
+
 import http.server
 import socketserver
 import json

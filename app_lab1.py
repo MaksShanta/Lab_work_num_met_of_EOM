@@ -1,3 +1,6 @@
+#Інструкція:
+#Код запускається задопомогою команди: python -m streamlit run app_lab1.py
+#Зупиняжться за допомогою комбінації клавіш: `Ctrl+C` .
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt

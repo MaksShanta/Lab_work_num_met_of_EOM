@@ -1,3 +1,6 @@
+#Інструкція:
+#Код запускається задопомогою команди: python lab4_integration.py
+#Зупиняжться за допомогою комбінації клавіш: `Ctrl+C` .
 import http.server
 import socketserver
 import json
